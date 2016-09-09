@@ -1,0 +1,5 @@
+template: Current time is, %s
+logging:
+  level: INFO
+  loggers:
+    io.dropwizard: INFO
